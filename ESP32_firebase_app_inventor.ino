@@ -4,11 +4,11 @@
 #include <FirebaseESP32.h>
 #include <WiFi.h>
 
-#define WIFI_SSID "Novi" // Change the name of your WIFI
-#define WIFI_PASSWORD "kusumon97" // Change the password of your WIFI
+#define WIFI_SSID "XXXXXXXXXXXXXXXXXXX" // Change the name of your WIFI
+#define WIFI_PASSWORD "XXXXXXXXXXXXXXXXXXX" // Change the password of your WIFI
 
-#define FIREBASE_HOST "esp32-sensor-reading-e3d4c-default-rtdb.firebaseio.com" // Database URL
-#define FIREBASE_Authorization_key "qnmbJTqKH9DlESRKEw4aqNsh58QfCnAop7TLZ0LF" // Database Secrets
+#define FIREBASE_HOST "esp32-sensor-reading-XXXXX-default-rtdb.firebaseio.com" // Database URL
+#define FIREBASE_Authorization_key "XXXXXXXXXXXXXXXXXXX" // Database Secrets
 
 #define DHTPIN 4    
 
